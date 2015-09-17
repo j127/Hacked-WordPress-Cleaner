@@ -1,4 +1,4 @@
-Hacked-WordPress-Cleaner
+Hacked WordPress Cleaner
 ========================
 
 A script to help with cleaning clean up hacked WordPress sites.
@@ -14,6 +14,6 @@ Requirements
 Branches
 --------
 
-* `dev` -- do pull requests against this branch
-* `master` -- only for stable releases
+* :code:`dev` -- do pull requests against this branch
+* :code:`master` -- only for stable releases
 
