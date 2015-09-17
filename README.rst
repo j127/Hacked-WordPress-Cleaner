@@ -11,4 +11,9 @@ Requirements
 * Python 3 -- a virtual environment is recommended
 * In your virtualenv, install the required packages: :code:`pip install -r requirements.txt`
 
+Branches
+--------
+
+* `dev` -- do pull requests against this branch
+* `master` -- only for stable releases
 
