@@ -17,3 +17,11 @@ Branches
 * :code:`dev` -- do pull requests against this branch
 * :code:`master` -- only for stable releases
 
+Tests
+-----
+
+Run tests and re-run them on file changes:
+
+* :code:`cd app`
+* :code:`py.test -f`
+
