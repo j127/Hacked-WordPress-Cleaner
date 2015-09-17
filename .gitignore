@@ -1,6 +1,22 @@
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
+venv/
+
+# Editors
+*~
+*.sw[po]
+.idea/
+
+# Misc.
+tmp/
+*.bak
+
+# Node
+node_modules/
+
+# Data
+*.sqlite3
 
 # C extensions
 *.so
