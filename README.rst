@@ -9,6 +9,6 @@ Requirements
 ------------
 
 * Python 3 -- a virtual environment is recommended
-* :code:`pip install -r requirements.txt`
+* In your virtualenv, install the required packages: :code:`pip install -r requirements.txt`
 
 
